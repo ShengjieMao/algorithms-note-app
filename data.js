@@ -16,9 +16,9 @@ const initialFacts = [
     source:
       "https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems",
     category: "Array and String",
-    votesInteresting: 24,
-    votesMindblowing: 9,
-    votesFalse: 4,
+    votesExpertised: 24,
+    votesUnderstand: 9,
+    votesHard: 4,
     createdIn: 2023,
   },
   {
@@ -27,9 +27,9 @@ const initialFacts = [
     source:
       "https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP",
     category: "Hash table",
-    votesInteresting: 11,
-    votesMindblowing: 2,
-    votesFalse: 0,
+    votesExpertised: 11,
+    votesUnderstand: 2,
+    votesHard: 0,
     createdIn: 2023,
   },
   {
@@ -38,9 +38,9 @@ const initialFacts = [
     source:
       "http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#dynamicProgramming",
     category: "society",
-    votesInteresting: 8,
-    votesMindblowing: 3,
-    votesFalse: 1,
+    votesExpertised: 8,
+    votesUnderstand: 3,
+    votesHard: 1,
     createdIn: 2023,
   },
 ];
