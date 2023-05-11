@@ -37,7 +37,7 @@ const initialFacts = [
     text: "Sometimes we can only store the last two values or rows if the matrix in memory",
     source:
       "http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#dynamicProgramming",
-    category: "society",
+    category: "Dynamic programming",
     votesExpertised: 8,
     votesUnderstand: 3,
     votesHard: 1,
