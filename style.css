@@ -65,7 +65,7 @@ h1 {
   margin-bottom: 16px;
 }
 
-.fact {
+.note {
   font-size: 20px;
   line-height: 1.4;
   background-color: #44403c;
@@ -80,7 +80,7 @@ h1 {
 }
 
 @media (max-width: 1200px) {
-  .fact {
+  .note {
     flex-direction: column;
     align-items: flex-end;
     gap: 12px;
@@ -177,7 +177,7 @@ ul {
 }
 
 /* FORM */
-.fact-form {
+.algo-form {
   background-color: #44403c;
   margin-bottom: 40px;
   padding: 16px 32px;
@@ -187,8 +187,8 @@ ul {
   border-radius: 16px;
 }
 
-.fact-form input,
-.fact-form select {
+.algo-form input,
+.algo-form select {
   width: 220px;
   background-color: #78716c;
   border: none;
@@ -199,15 +199,15 @@ ul {
   font-family: inherit;
 }
 
-.fact-form input::placeholder {
+.algo-form input::placeholder {
   color: #a8a29e;
 }
 
-.fact-form input:first-child {
+.algo-form input:first-child {
   flex-grow: 1;
 }
 
-.fact-form span {
+.algo-form span {
   font-weight: 600;
   font-size: 18px;
   margin-right: 18px;
@@ -218,13 +218,13 @@ ul {
     padding: 32px 48px;
   }
 
-  .fact-form {
+  .algo-form {
     flex-direction: column;
     align-items: stretch;
   }
 
-  .fact-form input,
-  .fact-form select {
+  .algo-form input,
+  .algo-form select {
     width: auto;
   }
 }
