@@ -34,7 +34,6 @@ When youfind out something that you also want to record down, you can just click
 
 When your new note is uploading, the form will turn to gray and no new changes can be made before the submitting process finished. This also applies to your "criticizing" process. 
 
-## App licences and usage info
 
 
 ## Action log
