@@ -2,6 +2,28 @@
 This app allows users to access the online data structure and algorithms notebook to record, check, and show their opinions toward the memo and notes they or others made about data knowledge. The app was developed with Javascript with the React library. The database is built in Supabase and the online deployment relies on the Netlify.
 
 ## App Thumbnails
+The overall view of the app
+![overall](https://github.com/ShengjieMao/algorithms-note-app/blob/main/img/overall-layout.png)
+
+Check certain tags you are interested in
+![certain tag](https://github.com/ShengjieMao/algorithms-note-app/blob/main/img/view-certain-tag.png)
+
+See total number of notes in the storage
+![see notes count](https://github.com/ShengjieMao/algorithms-note-app/blob/main/img/track-all-notes.png)
+
+Show whether you believe this is hard, fine, or you nailed it
+![share opinion](https://github.com/ShengjieMao/algorithms-note-app/blob/main/img/share-your-attitude.png)
+
+Track the source provided by the note recorder
+![track url](https://github.com/ShengjieMao/algorithms-note-app/blob/main/img/trackable-source.png)
+
+Add your own notes
+![add notes](https://github.com/ShengjieMao/algorithms-note-app/blob/main/img/add-new-note.png)
+
+And choose a proper tag for others
+![tag notes](https://github.com/ShengjieMao/algorithms-note-app/blob/main/img/tag-selection.png)
+
+
 
 ## App instructions 
 To run the app, you could either run the codes with <sub>npm start</sub> or directly access the website [here](https://data-algo-notes.netlify.app/).
